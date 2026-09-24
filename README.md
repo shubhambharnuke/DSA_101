@@ -43,4 +43,12 @@ Daily DSA practice, patterns, and notes in C++
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shubhambharnuke/DSA_101/tree/master/0543-diameter-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shubhambharnuke/DSA_101/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shubhambharnuke/DSA_101/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
