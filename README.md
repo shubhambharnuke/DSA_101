@@ -5,6 +5,7 @@ Daily DSA practice, patterns, and notes in C++
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhambharnuke/DSA_101/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhambharnuke/DSA_101/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhambharnuke/DSA_101/tree/master/0145-binary-tree-postorder-traversal) |
@@ -78,4 +79,12 @@ Daily DSA practice, patterns, and notes in C++
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shubhambharnuke/DSA_101/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
