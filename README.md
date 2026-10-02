@@ -83,8 +83,18 @@ Daily DSA practice, patterns, and notes in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0022-generate-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
