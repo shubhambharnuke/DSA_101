@@ -9,6 +9,7 @@ Daily DSA practice, patterns, and notes in C++
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhambharnuke/DSA_101/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhambharnuke/DSA_101/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhambharnuke/DSA_101/tree/master/0145-binary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhambharnuke/DSA_101/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
@@ -88,11 +89,13 @@ Daily DSA practice, patterns, and notes in C++
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhambharnuke/DSA_101/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhambharnuke/DSA_101/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +104,8 @@ Daily DSA practice, patterns, and notes in C++
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhambharnuke/DSA_101/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
