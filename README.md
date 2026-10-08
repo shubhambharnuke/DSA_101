@@ -67,10 +67,12 @@ Daily DSA practice, patterns, and notes in C++
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shubhambharnuke/DSA_101/tree/master/0013-roman-to-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shubhambharnuke/DSA_101/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shubhambharnuke/DSA_101/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/shubhambharnuke/DSA_101/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ Daily DSA practice, patterns, and notes in C++
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shubhambharnuke/DSA_101/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shubhambharnuke/DSA_101/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhambharnuke/DSA_101/tree/master/0921-minimum-add-to-make-parentheses-valid) |
