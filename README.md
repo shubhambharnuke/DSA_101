@@ -62,12 +62,14 @@ Daily DSA practice, patterns, and notes in C++
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shubhambharnuke/DSA_101/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/shubhambharnuke/DSA_101/tree/master/0229-majority-element-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shubhambharnuke/DSA_101/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shubhambharnuke/DSA_101/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/shubhambharnuke/DSA_101/tree/master/0189-rotate-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shubhambharnuke/DSA_101/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -111,4 +113,8 @@ Daily DSA practice, patterns, and notes in C++
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhambharnuke/DSA_101/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shubhambharnuke/DSA_101/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
