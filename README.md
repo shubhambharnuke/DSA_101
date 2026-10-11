@@ -64,6 +64,7 @@ Daily DSA practice, patterns, and notes in C++
 | ------- |
 | [0189-rotate-array](https://github.com/shubhambharnuke/DSA_101/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/shubhambharnuke/DSA_101/tree/master/0229-majority-element-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shubhambharnuke/DSA_101/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shubhambharnuke/DSA_101/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -117,4 +118,8 @@ Daily DSA practice, patterns, and notes in C++
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shubhambharnuke/DSA_101/tree/master/0189-rotate-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shubhambharnuke/DSA_101/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
