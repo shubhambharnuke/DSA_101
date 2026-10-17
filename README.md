@@ -128,4 +128,8 @@ Daily DSA practice, patterns, and notes in C++
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhambharnuke/DSA_101/tree/master/2149-rearrange-array-elements-by-sign) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shubhambharnuke/DSA_101/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
