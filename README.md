@@ -64,6 +64,7 @@ Daily DSA practice, patterns, and notes in C++
 | ------- |
 | [0189-rotate-array](https://github.com/shubhambharnuke/DSA_101/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/shubhambharnuke/DSA_101/tree/master/0229-majority-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shubhambharnuke/DSA_101/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhambharnuke/DSA_101/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shubhambharnuke/DSA_101/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shubhambharnuke/DSA_101/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -82,6 +83,7 @@ Daily DSA practice, patterns, and notes in C++
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shubhambharnuke/DSA_101/tree/master/0229-majority-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shubhambharnuke/DSA_101/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -133,4 +135,8 @@ Daily DSA practice, patterns, and notes in C++
 | ------- |
 | [0175-combine-two-tables](https://github.com/shubhambharnuke/DSA_101/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/shubhambharnuke/DSA_101/tree/master/0182-duplicate-emails) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shubhambharnuke/DSA_101/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
