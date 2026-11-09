@@ -147,6 +147,7 @@ Daily DSA practice, patterns, and notes in C++
 | [0610-triangle-judgement](https://github.com/shubhambharnuke/DSA_101/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/shubhambharnuke/DSA_101/tree/master/0620-not-boring-movies) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/shubhambharnuke/DSA_101/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1757-recyclable-and-low-fat-products](https://github.com/shubhambharnuke/DSA_101/tree/master/1757-recyclable-and-low-fat-products) |
 ## Binary Search
 |  |
 | ------- |
